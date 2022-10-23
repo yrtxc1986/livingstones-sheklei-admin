@@ -394,6 +394,11 @@
    * 3. It's useful to have a centralized inventory of all projects and their important metadata.
    */
   "projects": [
+    {
+      "packageName": "main",
+      "projectFolder": "apps/main",
+      "reviewCategory": "production"
+    }
     // {
     //   /**
     //    * The NPM package name of the project (must match package.json)
